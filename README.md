@@ -2,17 +2,17 @@
 <h3 align="center">A passionate Web Developer</h3>
 
 <h3 align="left">Work Experience:</h3>
-<h3 align="left">Front-End Web Developer at Thrasker (HTML, CSS, Js, TailwindCSS, AlpineJs)</h3>
-<h3 align="left">4.01.2023 - Ongoing</h3>
+<h3 align="left">Front-End Web Developer at Thrasker (HTML, CSS, Js, TailwindCSS, AstroJs, React)</h3>
+<h3 align="left">02.04.2023 - Ongoing</h3>
 <h3 align="left">Junior IT Specialist at Coordea (Wordpress Web Development, Server and Network Administration, IT Support)</h3>
-<h3 align="left">1.11.2023 - 31.03.2024 (5 months)</h3>
+<h3 align="left">1.11.2023 - 01.04.2024 (5/6 months)</h3>
 </br>
 <h3 align="left">Enrolled studies:</h3>
 <h3 align="left">Bachelor of Science in Computer Science and Communications Engineering (BSc CSCE) - FICT</h3>
 <h3 align="left">Front-End Web Development - Change Academy</h3>
 </br>
 
-- 🌱 I’m currently learning **Tailwind CSS and AlpinjeJs**
+- 🌱 I’m currently learning **Tailwind CSS and AstroJs**
 
 - 💬 Ask me about **Web Development!**
 
